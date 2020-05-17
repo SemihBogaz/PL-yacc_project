@@ -1,0 +1,6 @@
+!ident -> 90
+!ident2 -> PI/3
+sin()<-!ident == arctan()<- !ident2
+this_is_a_string
+1234555546
+randığü
