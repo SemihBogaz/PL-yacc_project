@@ -3,4 +3,6 @@
 sin()<-!ident == arctan()<- !ident2
 this_is_a_string
 1234555546
-randığü
+if(1<2){
+print("hello")
+
